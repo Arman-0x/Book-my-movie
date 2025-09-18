@@ -11,7 +11,6 @@
 ## Table of Contents
 - [Project Description](#project-description)
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
