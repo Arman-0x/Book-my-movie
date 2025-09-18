@@ -34,10 +34,7 @@ Learned how to implement features such as user authentication, admin functionali
 - Performance-optimized design
 - And much more!
 
-## Demo
 
-- [Demo Video 1](insert_demo_video_url_1_here)
-- [Demo Video 2](insert_demo_video_url_2_here)
 
 ## Installation
 
@@ -64,8 +61,7 @@ Getting your development environment set up is fairly straightforward:
 - React.js
 - Material UI
 - Redux Toolkit
-- Axios
-- ES6
+  
 
 ## Contributing
 
